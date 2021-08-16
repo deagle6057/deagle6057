@@ -7,4 +7,4 @@
 - :trophy: Improve myself, Never stop learning, Get further with small steps
 
 ## Social
-[linkedin] : https://www.linkedin.com/in/kasim-akdag-315bb2137/
+[linkedin]: https://www.linkedin.com/in/kasim-akdag-315bb2137/
